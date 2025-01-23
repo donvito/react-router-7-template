@@ -2,5 +2,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "devCommand": "npm run dev",
-  "framework": "react"
+  "framework": "remix"
 }
